@@ -1,0 +1,6 @@
+framework module Pods_SJLiveShow {
+  umbrella header "Pods-SJLiveShow-umbrella.h"
+
+  export *
+  module * { export * }
+}
